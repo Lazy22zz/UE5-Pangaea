@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Pangaea\\Source\\Pangaea\\Pangaea.Build.cs",
+		"D:\\Pangaea\\Source\\Pangaea.Target.cs",
+		"D:\\Pangaea\\Source\\PangaeaEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

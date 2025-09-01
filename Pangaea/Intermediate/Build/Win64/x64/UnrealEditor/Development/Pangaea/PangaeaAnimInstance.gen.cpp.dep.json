@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\pangaea\\intermediate\\build\\win64\\unrealeditor\\inc\\pangaea\\uht\\pangaeaaniminstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\pangaea\\intermediate\\build\\win64\\x64\\pangaeaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\pangaea\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pangaea\\definitions.pangaea.h",
+            "d:\\pangaea\\source\\pangaea\\pangaeaaniminstance.h",
+            "d:\\pangaea\\intermediate\\build\\win64\\unrealeditor\\inc\\pangaea\\uht\\pangaeaaniminstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
